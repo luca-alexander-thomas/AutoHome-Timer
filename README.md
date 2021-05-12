@@ -1,2 +1,0 @@
-# Timer
-Timer für Windows
